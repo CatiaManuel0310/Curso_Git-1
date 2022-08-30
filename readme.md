@@ -4,7 +4,7 @@
 ## Aula 1
 
 O que foi que eu aprendi aqui?
-
+-Aprendi o que é Git e Github
 descubri o munndo do git
 
 Explicamos o que é Git e GitHub
@@ -14,9 +14,10 @@ Explicamos o que é Git e GitHub
 O que foi que eu aprendi aqui?
 
 aprendi os codigos basicos
+-Exercitei os comandos com o professor Kauê Maya
 
 Instalamos o Git e vimos alguns comandos
-
+- Aprebdi a instalar o Git
 ## Aula 3
 
 O que foi que eu aprendi aqui?
@@ -30,7 +31,7 @@ O que foi que eu aprendi aqui?
 O que foi que eu aprendi aqui?
 
 ## Aula 6
-
+- Aprendi a clonar o respositório
 O que foi que eu aprendi aqui?
 
 ## Aula 7
